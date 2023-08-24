@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff108bdd-834e-47a9-8ee5-fd9a1974811d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/config/ToBrowserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/SpaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/response/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_192.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_34_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_42_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootdemo5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/Demo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/Demo1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/CommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/CommandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/EventController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/EventController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/TicketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/TicketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/mapper/EventMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/mapper/EventMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/mapper/TicketMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/mapper/TicketMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/pojo/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/pojo/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/pojo/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/pojo/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/service/EventService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/service/EventService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/service/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/service/TicketService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/service/impl/EventServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/service/impl/EventServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/service/impl/TicketServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/service/impl/TicketServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/EventMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/EventMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/TicketMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/TicketMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lagou/springbootdemo5/Springbootdemo5ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/Demo1Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/Demo1Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/CommandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/CommandController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/EventController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/EventController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/TicketController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/TicketController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/UsersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/UsersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/mapper/EventMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/mapper/EventMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/mapper/TicketMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/mapper/TicketMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/pojo/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/pojo/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/pojo/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/pojo/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/service/EventService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/service/EventService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/service/TicketService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/service/TicketService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/service/impl/EventServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/service/impl/EventServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/service/impl/TicketServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/service/impl/TicketServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/EventMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/EventMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/TicketMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/TicketMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/UsersMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.lagou.springbootdemo5.Springbootdemo5ApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.lagou.springbootdemo5.Springbootdemo5ApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.lagou.springbootdemo5.Springbootdemo5ApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.lagou.springbootdemo5.Springbootdemo5ApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lagou/springbootdemo5/Springbootdemo5ApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TggPWimzl60V2MJoeO36na9JLo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/6080作业/ass4/bigbrain-master/frontend" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.Demo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff108bdd-834e-47a9-8ee5-fd9a1974811d" name="Default Changelist" comment="" />
+      <created>1691470118974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691470118974</updated>
+      <workItem from="1691470121348" duration="1205000" />
+      <workItem from="1691476653090" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
